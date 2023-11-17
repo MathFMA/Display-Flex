@@ -1,0 +1,17 @@
+section {
+    border: 2px solid red;
+}
+
+.playstation {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+.playstation img{
+    width: 20rem;
+}
+
+.playstation p{
+    width: 30rem;
+}
